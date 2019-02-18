@@ -46,7 +46,6 @@ html,body{
    margin-top: 20px;
    position: relative;
      width: 70%
-
  }
  .pedia-kanto{
    background-image: url(https://fontmeme.com/permalink/190214/2bcb36075214ece688ce6e8b396ca3e1.png);
@@ -73,7 +72,7 @@ html,body{
    z-index: 20;
    float: left;
    width: 20%;
-   height: 43em;
+   height: 50em;
    position: relative;
    padding-top: 21px;
    margin-top: -110px;
@@ -96,7 +95,7 @@ html,body{
     transition-duration: 0.4s;
     margin-top: 10px;
     height: 6.5em;
-    width: 28%;
+    width: 26%;
     margin-bottom: 10px;
     background-color: #eff7ef;
     margin-left: 3%;
@@ -155,7 +154,6 @@ html,body{
 .style-fairy{
      background-image: url(./images/fairy.png);
 }
-
  .style-button:hover{
   opacity: .6;
  }
@@ -207,7 +205,6 @@ html,body{
            top: -76%;
        }
        .button-register{
-
        background-color: #fafafb;
            color: gray;
            margin-left: 70%;
@@ -231,13 +228,11 @@ html,body{
         padding-bottom: 5%;
         padding-top: 5%;
        }
-
        .modalWidth{
         width: 50%;
         text-align: center;
         background-color: #78c84f00;
         border-radius: 10px;
-
        }
        .Water{
          background-color:#6890f0
@@ -321,21 +316,18 @@ html,body{
         color: white;
         font-size: 1.2vw;
         width: 44%;
-        text-align: 
-
+        text-align:center;
       }
       .section-type{
         padding-top: 5%;
         padding-bottom: 3%;
         border-radius: 10px;
       }
-
       .table-type{
         width: 80%;
         margin-left: 10%;
         padding-top: 10px;
       }
-
    nav i{
     color: gray;
       position: absolute;
@@ -347,14 +339,13 @@ html,body{
     }
     .modal-body{
       padding: 1px;
-     
-      
+
+
     }
     .modal-header{
       border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     }
-
    footer {
    display: none;
  }
@@ -416,7 +407,7 @@ html,body{
       margin-left: 27%;
       margin-top: 12px;
       padding-left: 5%;
-  
+
    }
    i{
     margin-top: 20px;
@@ -456,7 +447,7 @@ html,body{
     float: right;
     width: 49%;
     margin-top: 16px;
-    height: 39.6em;
+    height: 60em;
     position: fixed;
     padding-top: 8px;
     left: 51%;
@@ -548,12 +539,11 @@ figure{
   border: none;
     padding-left: 10%;
     margin-left: -11.5%;
-
 }
 .modalMargin{
   margin-left: 20%;
   margin-top: 11em;
-  width: 113%; 
+  width: 113%;
 }
 footer{
   display: block;

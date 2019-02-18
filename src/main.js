@@ -14,10 +14,8 @@ botonMenu.addEventListener("click", showfilter)
 function showfilter() {
 
   let menuShow = document.getElementById('menuShow');
-  menuShow.classList.toggle("mostrar");
+    menuShow.classList.toggle("mostrar");
 }
-
-
 
 const getTypePokemon = (arrayButtons) => {
   arrayButtons.map((buttonType) => {
